@@ -1,7 +1,7 @@
 # DSA-JWOC
 ![image](https://user-images.githubusercontent.com/97447418/217596639-4cb980a5-0261-456c-8359-b7830c6e0939.png)
 
-JGEC Winter Of Code❄️ is a month-long open-source event where developers come up with their awesome projects to look for collaborative work🧑‍💻, networking🌐 and much more. As we will be launching our event soon, don't miss out as we explore the possibilities and the knick-knacks of Open-source, JWOC, and the infinite perks🏆🎁💰 of engaging with us.
+JGEC Winter Of Code❄️ is a month-long open-source event where developers come up with their awesome projects to look for collaborative work🧑‍💻, networking🌐 and much more. Explore the possibilities and the knick-knacks of Open-source, JWOC, and the infinite perks🏆🎁💰 of engaging with us.
 
 # What To Do:
 Contribute on this repository with valid DSA Program in any Programming Language 
