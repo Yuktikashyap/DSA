@@ -4,7 +4,7 @@
 JGEC Winter Of Code❄️ is a month-long open-source event where developers come up with their awesome projects to look for collaborative work🧑‍💻, networking🌐 and much more. Explore the possibilities and the knick-knacks of Open-source, JWOC, and the infinite perks🏆🎁💰 of engaging with us.
 
 # What To Do:
-Contribute on this repository with valid DSA Program in any Programming Language 
+Contribute on this repository with valid DSA Program in any Programming Language or you can implement any given program
 
 # Author
 [Yukti Kashyap](https://github.com/Yuktikashyap)
